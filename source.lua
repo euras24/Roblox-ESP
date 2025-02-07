@@ -1,5 +1,5 @@
 -- by @pisam_duma
-
+--preview if didnt saw: https://github.com/euras24/Roblox-ESP/blob/main/preview.png
 
 
 -- Instances: 74 | Scripts: 12 | Modules: 0 | Tags: 0
